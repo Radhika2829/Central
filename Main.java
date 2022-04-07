@@ -2,7 +2,7 @@ class Main {
 
   public static void main(String[] args) {
     
-    System.out.println("Enter four numbers");
+    System.out.println("Enter four numbers for four");
     int first = 10;
     int second = 20;
 	int third = 30;
